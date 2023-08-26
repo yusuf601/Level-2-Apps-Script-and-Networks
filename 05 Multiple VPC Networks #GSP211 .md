@@ -1,6 +1,6 @@
 # GSP211
 >🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR COMMUNITY](https://chat.whatsapp.com/KBfUcSleGGEFf2Xvvm8FW3)
-## Run in cloudshell (SOLUTION UPDATED 28/08/2023)
+## Run in cloudshell (SOLUTION UPDATED 24/08/2023)
 ### (ZONE1 from Task 2, Step 3)
 ```cmd
 export ZONE1=
