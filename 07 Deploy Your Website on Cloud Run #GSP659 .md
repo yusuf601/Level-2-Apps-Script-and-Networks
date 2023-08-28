@@ -1,5 +1,5 @@
 # GSP659
-## Run in cloudshell
+## Run in cloudshell (Enter y when asked)
 ```cmd
 gcloud services enable artifactregistry.googleapis.com \
     cloudbuild.googleapis.com \
