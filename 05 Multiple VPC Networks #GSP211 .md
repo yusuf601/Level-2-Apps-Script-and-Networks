@@ -1,4 +1,5 @@
 # GSP211
+>🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR COMMUNITY](https://chat.whatsapp.com/KBfUcSleGGEFf2Xvvm8FW3)
 ## Run in cloudshell
 ### Get 1st zone from task TASK 2, 3rd step
 ```cmd
